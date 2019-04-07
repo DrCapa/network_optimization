@@ -10,6 +10,8 @@ graph LR;
     5((5))-->4;
     4((4))-->5;
 ```
+(Unfortunately GitHub do not support the visualization of mermaid graphs not yet (https://github.com/github/markup/issues/533). But you can view on VS Code.)
+
 In the input file are the given informations
 * costs per unit flow through the arcs,
 * maximal capacities for the arcs,

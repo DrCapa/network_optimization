@@ -11,6 +11,8 @@ graph LR;
     5((5))-->4;
     4((4))-->5;
 ```
+(Aktuell wird die Darstellung von mermaid graphs noch nicht von GitHub unterstützt (https://github.com/github/markup/issues/533). Mit VS Code werden die Grafiken angezeigt.)
+
 In der Datei input.xlsx sind die folgenden Informationen gegeben:
 * Kosten pro Einheit bei Fluss durch die Kante,
 * maximale Kapazität für den Fluss durch die Kante,
